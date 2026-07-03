@@ -1,6 +1,6 @@
 # AI-агенты для селлеров: план воркшопа
 
-**Навигация:** [← README](README.md) | [← AGENTS](AGENTS.md) | [Далее: план занятий](ai-agents-seller-workshop-lessons-plan.md) | [Инструментальная методология](seller-ai-workshop-toolchain/00-toolchain-methodology.md)
+**Навигация:** [← README](README.md) | [Далее: план занятий](ai-agents-seller-workshop-lessons-plan.md) | [Инструментальная методология](seller-ai-workshop-toolchain/00-toolchain-methodology.md)
 
 ## Короткая суть
 
@@ -488,4 +488,4 @@ AI-агенты уже умеют работать с файлами, кодом
 
 ---
 
-**Навигация:** [← README](README.md) | [← AGENTS](AGENTS.md) | [Далее: план занятий](ai-agents-seller-workshop-lessons-plan.md) | [Инструментальная методология](seller-ai-workshop-toolchain/00-toolchain-methodology.md)
+**Навигация:** [← README](README.md) | [Далее: план занятий](ai-agents-seller-workshop-lessons-plan.md) | [Инструментальная методология](seller-ai-workshop-toolchain/00-toolchain-methodology.md)

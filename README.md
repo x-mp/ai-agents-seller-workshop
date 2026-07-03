@@ -2,7 +2,7 @@
 
 **Практический воркшоп по Codex / Claude Code: данные из кабинета, API, Google Sheets, карточки, остатки, поставки, реклама и автоматические проверки.**
 
-**Навигация:** [Общий план](ai-agents-seller-workshop-plan.md) | [Первый урок](ai-agents-seller-workshop-lesson-01.md) | [Методология](seller-ai-workshop-toolchain/00-toolchain-methodology.md) | [Воркшоп 1](seller-ai-workshop-toolchain/workshop-01-data-api-storage.md) | [Воркшоп 2](seller-ai-workshop-toolchain/workshop-02-memory-normalization.md) | [Воркшоп 3](seller-ai-workshop-toolchain/workshop-03-cycles-skills-checks.md) | [Воркшоп 4](seller-ai-workshop-toolchain/workshop-04-integrations-mcp-plugins-visuals.md)
+**Навигация:** [Общий план](ai-agents-seller-workshop-plan.md) | [Первый урок](ai-agents-seller-workshop-lesson-01.md) | [Методология](seller-ai-workshop-toolchain/00-toolchain-methodology.md) | [Воркшоп 1](seller-ai-workshop-toolchain/workshop-01-data-api-storage.md) | [Воркшоп 2](seller-ai-workshop-toolchain/workshop-02-memory-normalization.md) | [Воркшоп 3](seller-ai-workshop-toolchain/workshop-03-cycles-skills-checks.md) | [Воркшоп 4](seller-ai-workshop-toolchain/workshop-04-integrations-mcp-plugins-visuals.md) | [MCP и скилы](seller-ai-workshop-toolchain/05-mcp-servers-and-skills-library.md)
 
 ## О чем этот курс
 
@@ -245,6 +245,7 @@ AI вроде полезен, но непонятно, как применить
 - [Воркшоп 2: память кабинета и нормализация](seller-ai-workshop-toolchain/workshop-02-memory-normalization.md)
 - [Воркшоп 3: циклы проверки и скилы](seller-ai-workshop-toolchain/workshop-03-cycles-skills-checks.md)
 - [Воркшоп 4: карточки, визуал, конкуренты и генерация медиа через API](seller-ai-workshop-toolchain/workshop-04-integrations-mcp-plugins-visuals.md)
+- [MCP-серверы, коннекторы и библиотека скилов](seller-ai-workshop-toolchain/05-mcp-servers-and-skills-library.md)
 
 ---
 
